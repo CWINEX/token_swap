@@ -1,28 +1,35 @@
-# VIM
-# Swap
-[._]*.s[a-v][a-z]
-[._]*.sw[a-p]
-[._]s[a-rt-v][a-z]
-[._]ss[a-gi-z]
-[._]sw[a-p]
+# Prerequisites
+*.d
 
-# Session
-Session.vim
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
 
-.vimrc
+# Precompiled Headers
+*.gch
+*.pch
 
-# Temporary
-.netrwhist
-*~
-# Auto-generated tag files
-tags
-# Persistent undo
-[._]*.un~
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
 
-# Build
-build*
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
 bin2/
+bin/
 
-# ide
-.idea
-.vscode
