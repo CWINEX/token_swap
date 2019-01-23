@@ -1,0 +1,66 @@
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/MA/projects/ico/bin/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_8acaa/fast"
+/usr/bin/make -f CMakeFiles/cmTC_8acaa.dir/build.make CMakeFiles/cmTC_8acaa.dir/build
+make[1]: Entering directory '/home/MA/projects/ico/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_8acaa.dir/testCCompiler.c.o
+/home/MA/projects/eosio.cdt/build/bin/eosio-cc    -o CMakeFiles/cmTC_8acaa.dir/testCCompiler.c.o   -c /home/MA/projects/ico/bin/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_8acaa
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_8acaa.dir/link.txt --verbose=1
+/home/MA/projects/eosio.cdt/build/bin/eosio-cc      CMakeFiles/cmTC_8acaa.dir/testCCompiler.c.o  -o cmTC_8acaa 
+clang-7: warning: CMakeFiles/cmTC_8acaa.dir/testCCompiler.c.o: 'linker' input unused [-Wunused-command-line-argument]
+clang-7: warning: argument unused during compilation: '-ffreestanding' [-Wunused-command-line-argument]
+clang-7: warning: argument unused during compilation: '-fno-builtin' [-Wunused-command-line-argument]
+clang-7: warning: argument unused during compilation: '-fno-threadsafe-statics' [-Wunused-command-line-argument]
+clang-7: warning: argument unused during compilation: '-D BOOST_DISABLE_ASSERTS' [-Wunused-command-line-argument]
+clang-7: warning: argument unused during compilation: '-D BOOST_EXCEPTION_DISABLE' [-Wunused-command-line-argument]
+clang-7: warning: argument unused during compilation: '-Xclang -load' [-Wunused-command-line-argument]
+clang-7: warning: argument unused during compilation: '-Xclang /home/MA/projects/eosio.cdt/build/bin/LLVMEosioApply.so' [-Wunused-command-line-argument]
+clang-7: warning: argument unused during compilation: '-fplugin=/home/MA/projects/eosio.cdt/build/bin/eosio_plugin.so' [-Wunused-command-line-argument]
+clang-7: warning: argument unused during compilation: '-mllvm -use-cfl-aa-in-codegen=both' [-Wunused-command-line-argument]
+clang-7: warning: argument unused during compilation: '-I /home/MA/projects/eosio.cdt/build/bin/../include/libcxx' [-Wunused-command-line-argument]
+clang-7: warning: argument unused during compilation: '-I /home/MA/projects/eosio.cdt/build/bin/../include/libc' [-Wunused-command-line-argument]
+clang-7: warning: argument unused during compilation: '-I /home/MA/projects/eosio.cdt/build/bin/../include' [-Wunused-command-line-argument]
+clang-7: warning: argument unused during compilation: '-O3' [-Wunused-command-line-argument]
+CMakeFiles/cmTC_8acaa.dir/build.make:97: recipe for target 'cmTC_8acaa' failed
+make[1]: *** [cmTC_8acaa] Error 255
+make[1]: Leaving directory '/home/MA/projects/ico/bin/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_8acaa/fast' failed
+make: *** [cmTC_8acaa/fast] Error 2
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/MA/projects/ico/bin/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_1705e/fast"
+make[1]: Entering directory '/home/MA/projects/ico/bin/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_1705e.dir/build.make CMakeFiles/cmTC_1705e.dir/build
+make[2]: Entering directory '/home/MA/projects/ico/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_1705e.dir/testCCompiler.c.o
+/home/MA/projects/eosio.cdt/build/bin/eosio-cc    -o CMakeFiles/cmTC_1705e.dir/testCCompiler.c.o   -c /home/MA/projects/ico/bin/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_1705e
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_1705e.dir/link.txt --verbose=1
+/home/MA/projects/eosio.cdt/build/bin/eosio-cc      CMakeFiles/cmTC_1705e.dir/testCCompiler.c.o  -o cmTC_1705e 
+clang-7: warning: CMakeFiles/cmTC_1705e.dir/testCCompiler.c.o: 'linker' input unused [-Wunused-command-line-argument]
+clang-7: warning: argument unused during compilation: '-ffreestanding' [-Wunused-command-line-argument]
+clang-7: warning: argument unused during compilation: '-fno-builtin' [-Wunused-command-line-argument]
+clang-7: warning: argument unused during compilation: '-fno-threadsafe-statics' [-Wunused-command-line-argument]
+clang-7: warning: argument unused during compilation: '-D BOOST_DISABLE_ASSERTS' [-Wunused-command-line-argument]
+clang-7: warning: argument unused during compilation: '-D BOOST_EXCEPTION_DISABLE' [-Wunused-command-line-argument]
+clang-7: warning: argument unused during compilation: '-Xclang -load' [-Wunused-command-line-argument]
+clang-7: warning: argument unused during compilation: '-Xclang /home/MA/projects/eosio.cdt/build/bin/LLVMEosioApply.so' [-Wunused-command-line-argument]
+clang-7: warning: argument unused during compilation: '-fplugin=/home/MA/projects/eosio.cdt/build/bin/eosio_plugin.so' [-Wunused-command-line-argument]
+clang-7: warning: argument unused during compilation: '-mllvm -use-cfl-aa-in-codegen=both' [-Wunused-command-line-argument]
+clang-7: warning: argument unused during compilation: '-I /home/MA/projects/eosio.cdt/build/bin/../include/libcxx' [-Wunused-command-line-argument]
+clang-7: warning: argument unused during compilation: '-I /home/MA/projects/eosio.cdt/build/bin/../include/libc' [-Wunused-command-line-argument]
+clang-7: warning: argument unused during compilation: '-I /home/MA/projects/eosio.cdt/build/bin/../include' [-Wunused-command-line-argument]
+clang-7: warning: argument unused during compilation: '-O3' [-Wunused-command-line-argument]
+CMakeFiles/cmTC_1705e.dir/build.make:97: recipe for target 'cmTC_1705e' failed
+make[2]: *** [cmTC_1705e] Error 255
+make[2]: Leaving directory '/home/MA/projects/ico/bin/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_1705e/fast' failed
+make[1]: *** [cmTC_1705e/fast] Error 2
+make[1]: Leaving directory '/home/MA/projects/ico/bin/CMakeFiles/CMakeTmp'
+
+

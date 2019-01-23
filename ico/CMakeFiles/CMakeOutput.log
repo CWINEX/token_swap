@@ -1,0 +1,57 @@
+The system is: Linux - 4.15.0-1024-gcp - x86_64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: /home/MA/projects/eosio.cdt/build/bin/eosio-cc 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+/home/MA/projects/eosio.cdt/build/bin/wasm-ld: error: undefined symbol: apply
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
+
+The C compiler identification is Clang, found in "/home/MA/projects/ico/bin/CMakeFiles/3.10.2/CompilerIdC/a.out"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: /home/MA/projects/eosio.cdt/build/bin/eosio-cpp 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+/home/MA/projects/eosio.cdt/build/bin/wasm-ld: error: undefined symbol: apply
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
+
+The CXX compiler identification is Clang, found in "/home/MA/projects/ico/bin/CMakeFiles/3.10.2/CompilerIdCXX/a.out"
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: /home/MA/projects/eosio.cdt/build/bin/eosio-cc 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+/home/MA/projects/eosio.cdt/build/bin/wasm-ld: error: undefined symbol: apply
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
+
+The C compiler identification is Clang, found in "/home/MA/projects/ico/bin/CMakeFiles/3.10.2/CompilerIdC/a.out"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: /home/MA/projects/eosio.cdt/build/bin/eosio-cpp 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+/home/MA/projects/eosio.cdt/build/bin/wasm-ld: error: undefined symbol: apply
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
+
+The CXX compiler identification is Clang, found in "/home/MA/projects/ico/bin/CMakeFiles/3.10.2/CompilerIdCXX/a.out"
+
